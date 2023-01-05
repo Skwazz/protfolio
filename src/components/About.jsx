@@ -13,24 +13,22 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        <p className="text-xl mt-15">
+          <p className="text-[40px] text-sky-400"> Who Am I:</p> <br />
+          I'm a entry-level profesional Full Stack Developer aspiring to learn
+          new technolegies with a passion for innovation and perfection. Having
+          great communication skills from years of experience with people.
+          Always open to try new things!
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          <p className="text-[40px] text-sky-400"> What I Did:</p> <br />I have
+          years of experience in the IT support field. Worked with many kind of
+          technolegies over the years that gave me a real boost when trying to
+          pick up coding. Granted me the skills to understand new and evolving
+          technolegies and adapt myself with the ever-evolving tech world!
         </p>
       </div>
     </div>
